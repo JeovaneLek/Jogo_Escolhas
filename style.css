@@ -1,3 +1,8 @@
+@font-face {
+    font-family: rainyhearts;
+    src: url(main/rainyhearts.ttf);
+}
+
 h1{
     color: #229a00;
     margin-bottom: 20px;
@@ -49,4 +54,3 @@ h3 {
 img {
     margin-top: 100px;
 }
-
