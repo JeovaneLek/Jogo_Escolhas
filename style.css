@@ -26,10 +26,11 @@ a {
   align-items: center;
   margin-top: 20px;
   text-decoration: none;
-  color: #229a00;
+  color: #ffffff;
   background-color: #38672b;
   padding: 10px;
   font-size: 20px;
+  border-radius: 10px;
 }
 
 a:hover {
