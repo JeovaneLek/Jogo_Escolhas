@@ -23,11 +23,8 @@ body {
 }
 
 a {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  
+  align-items: center;
+  margin-top: 20px;
   text-decoration: none;
   color: #229a00;
   padding: 10px;
