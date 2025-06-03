@@ -42,7 +42,6 @@ body {
     width: 80%;
     margin: 0 auto;
     line-height: 1.5;
-    animation: typing 4.5s steps(40, end);
     text-align: center;
     padding: 15px;
     background-color: rgba(0, 0, 0, 0.3);
